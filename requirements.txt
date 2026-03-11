@@ -1,0 +1,8 @@
+flask
+flask-cors
+requests
+feedparser
+pytz
+wikipedia
+firebase-admin
+python-dotenv
